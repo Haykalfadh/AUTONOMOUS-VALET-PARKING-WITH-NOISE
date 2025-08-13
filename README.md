@@ -24,7 +24,13 @@ A total of **12 experimental scenarios** were conducted (3 algorithms × 4 noise
 
 - **Reference Paper:**  
   *Autonomous Valet Parking Based on Soft Actor-Critic Approach* (2025)  
-  (https://drive.google.com/file/d/1mVdTLA1qDqTndRphbDPnqWv1KBYgANBk/view?usp=sharing) 
+  (https://drive.google.com/file/d/1mVdTLA1qDqTndRphbDPnqWv1KBYgANBk/view?usp=sharing)
+
+- **Documentation:**
+  
+  ![TrainingProcess](https://github.com/user-attachments/assets/c3e76aaf-b349-4406-b573-849bc6fbe08c)
+  ![TrainingResult](https://github.com/user-attachments/assets/17fbd930-93de-4464-bdaf-94c86f055455)
+
 
 ---
 
